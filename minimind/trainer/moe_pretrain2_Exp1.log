@@ -1,0 +1,17 @@
+nohup: ignoring input
+/home/aizoo/miniconda3/envs/minimind/lib/python3.11/site-packages/torch/cuda/__init__.py:61: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+usage: MiniMind Exp-2 Pretrain [-h] [--save_dir SAVE_DIR] [--epochs EPOCHS]
+                               [--batch_size BATCH_SIZE]
+                               [--learning_rate LEARNING_RATE]
+                               [--device DEVICE] [--dtype DTYPE]
+                               [--num_workers NUM_WORKERS]
+                               [--accumulation_steps ACCUMULATION_STEPS]
+                               [--grad_clip GRAD_CLIP]
+                               [--log_interval LOG_INTERVAL]
+                               [--hidden_size HIDDEN_SIZE]
+                               [--num_hidden_layers NUM_HIDDEN_LAYERS]
+                               [--max_seq_len MAX_SEQ_LEN] [--use_moe USE_MOE]
+                               [--aux_loss_alpha AUX_LOSS_ALPHA] --data_path
+                               DATA_PATH
+MiniMind Exp-2 Pretrain: error: unrecognized arguments: --experiment_id Exp-1
