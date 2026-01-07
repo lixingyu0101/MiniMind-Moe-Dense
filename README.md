@@ -12,7 +12,7 @@ minimind/out/sft_dense_512.pth
 
 minimind/out/sft_moe_512_moe.pth
 
-（模型太大，文件中运行日志）
+（模型太大，文件中有运行日志）
 
 3.实验结果：
 
